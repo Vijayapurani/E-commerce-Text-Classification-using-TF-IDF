@@ -3,6 +3,7 @@ Text Classification using TF-IDF and XG Boost Classifier
 
 ## About the dataset
 E-commerce text dataset has 4 categories - "Electronics", "Household", "Books" and "Clothing & Accessories", which almost cover 80% of any E-commerce website.
+Source : Kaggle
 
 ## Objective:
   To classify the dataset into appropriate class using suitable NLP techniques
